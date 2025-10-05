@@ -1,0 +1,480 @@
+{
+  "id": 2420711,
+  "username": "udjamaflip",
+  "resource_state": 3,
+  "firstname": "Andy",
+  "lastname": "Sharman",
+  "bio": "",
+  "city": "Los Altos",
+  "state": "California",
+  "country": "United States",
+  "sex": "M",
+  "premium": true,
+  "summit": true,
+  "created_at": "2013-06-25T12:37:57Z",
+  "updated_at": "2025-08-24T23:50:13Z",
+  "badge_type_id": 1,
+  "weight": 83.0,
+  "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2420711/6609683/3/medium.jpg",
+  "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2420711/6609683/3/large.jpg",
+  "friend": null,
+  "follower": null,
+  "blocked": false,
+  "can_follow": true,
+  "follower_count": 185,
+  "friend_count": 155,
+  "mutual_friend_count": 0,
+  "athlete_type": 0,
+  "date_preference": "%m/%d/%Y",
+  "measurement_preference": "meters",
+  "clubs": [
+    {
+      "id": 95253,
+      "resource_state": 2,
+      "name": "Yahoo7",
+      "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/95253/1639174/1/medium.jpg",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/95253/1639174/1/large.jpg",
+      "cover_photo": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/95253/5505674/1/large.jpg",
+      "cover_photo_small": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/95253/5505674/1/small.jpg",
+      "activity_types": [],
+      "activity_types_icon": "sports_multi_normal",
+      "dimensions": [
+        "moving_time",
+        "num_activities",
+        "distance",
+        "elev_gain"
+      ],
+      "sport_type": "other",
+      "localized_sport_type": "Multisport",
+      "city": "Millers Point",
+      "state": "New South Wales",
+      "country": "Australia",
+      "private": true,
+      "member_count": 0,
+      "featured": false,
+      "verified": false,
+      "url": "yahoo7",
+      "membership": "member",
+      "admin": true,
+      "owner": true
+    },
+    {
+      "id": 16449,
+      "resource_state": 2,
+      "name": "BarCycle",
+      "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/16449/1565985/1/medium.jpg",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/16449/1565985/1/large.jpg",
+      "cover_photo": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/16449/5684879/1/large.jpg",
+      "cover_photo_small": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/16449/5684879/1/small.jpg",
+      "activity_types": [
+        "Handcycle",
+        "EBikeRide",
+        "VirtualRide",
+        "Velomobile",
+        "Ride"
+      ],
+      "activity_types_icon": "sports_bike_normal",
+      "dimensions": [
+        "distance",
+        "num_activities",
+        "best_activities_distance",
+        "velocity",
+        "elev_gain",
+        "moving_time"
+      ],
+      "sport_type": "cycling",
+      "localized_sport_type": "Cycling",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "private": false,
+      "member_count": 0,
+      "featured": false,
+      "verified": false,
+      "url": "bar-cycle",
+      "membership": "member",
+      "admin": false,
+      "owner": false
+    },
+    {
+      "id": 3046,
+      "resource_state": 2,
+      "name": "Jet Cycles",
+      "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/3046/35962/2/medium.jpg",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/3046/35962/2/large.jpg",
+      "cover_photo": null,
+      "cover_photo_small": null,
+      "activity_types": [
+        "Handcycle",
+        "EBikeRide",
+        "VirtualRide",
+        "Velomobile",
+        "Ride"
+      ],
+      "activity_types_icon": "sports_bike_normal",
+      "dimensions": [
+        "distance",
+        "num_activities",
+        "best_activities_distance",
+        "velocity",
+        "elev_gain",
+        "moving_time"
+      ],
+      "sport_type": "cycling",
+      "localized_sport_type": "Cycling",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "private": false,
+      "member_count": 0,
+      "featured": false,
+      "verified": true,
+      "url": "jet-racing",
+      "membership": "member",
+      "admin": false,
+      "owner": false
+    },
+    {
+      "id": 109154,
+      "resource_state": 2,
+      "name": "Sydney Harbour Runners",
+      "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/109154/1962208/3/medium.jpg",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/109154/1962208/3/large.jpg",
+      "cover_photo": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/109154/4506295/3/large.jpg",
+      "cover_photo_small": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/109154/4506295/3/small.jpg",
+      "activity_types": [
+        "Run",
+        "VirtualRun",
+        "Wheelchair"
+      ],
+      "activity_types_icon": "sports_run_normal",
+      "dimensions": [
+        "distance",
+        "num_activities",
+        "best_activities_distance",
+        "elev_gain",
+        "moving_time",
+        "velocity"
+      ],
+      "sport_type": "running",
+      "localized_sport_type": "Running",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "private": false,
+      "member_count": 0,
+      "featured": false,
+      "verified": true,
+      "url": "shrunners",
+      "membership": "member",
+      "admin": false,
+      "owner": false
+    },
+    {
+      "id": 36275,
+      "resource_state": 2,
+      "name": "Atlassian Cycle Club",
+      "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/36275/1009301/4/medium.jpg",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/36275/1009301/4/large.jpg",
+      "cover_photo": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/36275/13901427/1/large.jpg",
+      "cover_photo_small": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/36275/13901427/1/small.jpg",
+      "activity_types": [
+        "Handcycle",
+        "EBikeRide",
+        "VirtualRide",
+        "Velomobile",
+        "Ride"
+      ],
+      "activity_types_icon": "sports_bike_normal",
+      "dimensions": [
+        "distance",
+        "num_activities",
+        "best_activities_distance",
+        "velocity",
+        "elev_gain",
+        "moving_time"
+      ],
+      "sport_type": "cycling",
+      "localized_sport_type": "Cycling",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "private": true,
+      "member_count": 0,
+      "featured": false,
+      "verified": false,
+      "url": "atlassian-cycle",
+      "membership": "member",
+      "admin": false,
+      "owner": false
+    },
+    {
+      "id": 38326,
+      "resource_state": 2,
+      "name": "Atlassian Running Club",
+      "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/38326/1038292/2/medium.jpg",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/38326/1038292/2/large.jpg",
+      "cover_photo": null,
+      "cover_photo_small": null,
+      "activity_types": [
+        "Run",
+        "VirtualRun",
+        "Wheelchair"
+      ],
+      "activity_types_icon": "sports_run_normal",
+      "dimensions": [
+        "distance",
+        "num_activities",
+        "best_activities_distance",
+        "elev_gain",
+        "moving_time",
+        "velocity"
+      ],
+      "sport_type": "running",
+      "localized_sport_type": "Running",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "private": true,
+      "member_count": 0,
+      "featured": false,
+      "verified": false,
+      "url": "atlassian-run",
+      "membership": "member",
+      "admin": false,
+      "owner": false
+    },
+    {
+      "id": 2362,
+      "resource_state": 2,
+      "name": "Balmoral Tri Club",
+      "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/2362/2139093/2/medium.jpg",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/2362/2139093/2/large.jpg",
+      "cover_photo": null,
+      "cover_photo_small": null,
+      "activity_types": [
+        "Handcycle",
+        "Wheelchair",
+        "EBikeRide",
+        "Run",
+        "VirtualRide",
+        "Velomobile",
+        "VirtualRun",
+        "Swim",
+        "Ride"
+      ],
+      "activity_types_icon": "sports_triathlon_normal",
+      "dimensions": [
+        "moving_time",
+        "num_activities",
+        "swim_time",
+        "ride_time",
+        "run_time",
+        "distance",
+        "best_activities_moving_time"
+      ],
+      "sport_type": "triathlon",
+      "localized_sport_type": "Triathlon",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "private": true,
+      "member_count": 0,
+      "featured": false,
+      "verified": false,
+      "url": "balmoral-tri-club",
+      "membership": "member",
+      "admin": false,
+      "owner": false
+    },
+    {
+      "id": 52277,
+      "resource_state": 2,
+      "name": "Cammeray Roadies",
+      "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/52277/1249960/4/medium.jpg",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/52277/1249960/4/large.jpg",
+      "cover_photo": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/52277/4516522/7/large.jpg",
+      "cover_photo_small": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/52277/4516522/7/small.jpg",
+      "activity_types": [
+        "Handcycle",
+        "EBikeRide",
+        "VirtualRide",
+        "Velomobile",
+        "Ride"
+      ],
+      "activity_types_icon": "sports_bike_normal",
+      "dimensions": [
+        "distance",
+        "num_activities",
+        "best_activities_distance",
+        "velocity",
+        "elev_gain",
+        "moving_time"
+      ],
+      "sport_type": "cycling",
+      "localized_sport_type": "Cycling",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "private": true,
+      "member_count": 0,
+      "featured": false,
+      "verified": true,
+      "url": "cammerayroadies",
+      "membership": "member",
+      "admin": false,
+      "owner": false
+    },
+    {
+      "id": 515554,
+      "resource_state": 2,
+      "name": "Los Altos Runners",
+      "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/515554/31683586/1/medium.jpg",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/515554/31683586/1/large.jpg",
+      "cover_photo": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/515554/11819243/6/large.jpg",
+      "cover_photo_small": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/515554/11819243/6/small.jpg",
+      "activity_types": [
+        "Run",
+        "VirtualRun",
+        "Wheelchair"
+      ],
+      "activity_types_icon": "sports_run_normal",
+      "dimensions": [
+        "distance",
+        "num_activities",
+        "best_activities_distance",
+        "elev_gain",
+        "moving_time",
+        "velocity"
+      ],
+      "sport_type": "running",
+      "localized_sport_type": "Running",
+      "city": "Los Altos",
+      "state": "California",
+      "country": "United States",
+      "private": true,
+      "member_count": 0,
+      "featured": false,
+      "verified": false,
+      "url": "LosAltosRunners",
+      "membership": "member",
+      "admin": false,
+      "owner": false
+    }
+  ],
+  "postable_clubs_count": 9,
+  "ftp": 320,
+  "bikes": [
+    {
+      "id": "b6723723",
+      "primary": false,
+      "name": "Atom",
+      "nickname": "Atom",
+      "resource_state": 2,
+      "retired": false,
+      "distance": 1907709,
+      "converted_distance": 1907.7
+    },
+    {
+      "id": "b10157313",
+      "primary": false,
+      "name": "BMC",
+      "nickname": "BMC",
+      "resource_state": 2,
+      "retired": false,
+      "distance": 23159633,
+      "converted_distance": 23159.6
+    },
+    {
+      "id": "b1401725",
+      "primary": false,
+      "name": "Toothless",
+      "nickname": "Toothless",
+      "resource_state": 2,
+      "retired": false,
+      "distance": 8628105,
+      "converted_distance": 8628.1
+    }
+  ],
+  "shoes": [
+    {
+      "id": "g3017452",
+      "primary": false,
+      "name": "Inov-8 X-Claw",
+      "nickname": "",
+      "resource_state": 2,
+      "retired": false,
+      "distance": 242461,
+      "converted_distance": 242.5
+    },
+    {
+      "id": "g6991147",
+      "primary": false,
+      "name": "On Cloudsurfer Cloudsurfing",
+      "nickname": "Cloudsurfing",
+      "resource_state": 2,
+      "retired": false,
+      "distance": 1085678,
+      "converted_distance": 1085.7
+    }
+  ],
+  "zones": {
+    "heart_rate": {
+      "custom_zones": false,
+      "zones": [
+        {
+          "min": 0,
+          "max": 111
+        },
+        {
+          "min": 111,
+          "max": 138
+        },
+        {
+          "min": 138,
+          "max": 151
+        },
+        {
+          "min": 151,
+          "max": 165
+        },
+        {
+          "min": 165,
+          "max": -1
+        }
+      ]
+    },
+    "power": {
+      "zones": [
+        {
+          "min": 0,
+          "max": 176
+        },
+        {
+          "min": 177,
+          "max": 240
+        },
+        {
+          "min": 241,
+          "max": 288
+        },
+        {
+          "min": 289,
+          "max": 336
+        },
+        {
+          "min": 337,
+          "max": 384
+        },
+        {
+          "min": 385,
+          "max": 480
+        },
+        {
+          "min": 481,
+          "max": -1
+        }
+      ]
+    }
+  }
+}
